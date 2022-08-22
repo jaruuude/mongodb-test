@@ -1,0 +1,21 @@
+@import url(_variables.css);
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+html {
+  width: 100vw;
+  overflow-y: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  position: relative;
+  width: 100vw;
+  height: 100%;
+}
